@@ -16,4 +16,4 @@ Run the following command in your virtual environment:
 pip install -r requirements_web_scrapping.txt
 ```
 
-[Click here for python script](https://github.com/prajwalnigam321/web_scrapping)
+[Click here for python script](https://github.com/prajwalnigam321/web_scrapping/blob/master/scrapping.py)
